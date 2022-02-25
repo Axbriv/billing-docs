@@ -133,7 +133,7 @@ return [
   'success' => 'Sukces!',
 
   // Errors
-  'err_remove_game' => 'Sorry. You must first remove all the plans belonging to this game.',
+  'err_remove_game' => 'Przepraszam. Musisz najpierw usunąć wszystkie plany należące do tej gry',
   'err_plan_limit' => 'Przepraszam. Osiągnąłeś limit. Możesz kupić tylko następującą kwotę: ',
   'err_create_server' => 'Wystąpił błąd podczas tworzenia nowego serwera (check api in admin area).',
   'err_user_balance' => 'Na Twoim koncie nie ma wystarczającego salda, aby dokonać tego zakupu.',
@@ -152,14 +152,14 @@ return [
   'plan_error' => 'Twój plan nie wspiera sub-domen',
 
   // Domain
-  'subdomain_integration' => 'Subdomain support',
-  'server_ip_address' => 'Server IP Address',
-  'memory' => 'Memory',
+  'subdomain_integration' => 'Obsługa subdomen',
+  'server_ip_address' => 'Adres IP serwera',
+  'memory' => 'Pamięć',
   'plan' => 'Plan',
   'plan_subdomain' => 'Plan subdomain',
-  'zone' => 'Zone',
-  'invoices' => 'Invoices',
-  'plan_error' => 'Your plan does not support creating a subdomain',
+  'zone' => 'Strefa',
+  'invoices' => 'Faktury',
+  'plan_error' => 'Twój plan nie obsługuje tworzenia subdomeny',
 
   // Portal
   'portal_sw_mode' => 'Zmień tryb',
@@ -208,11 +208,11 @@ return [
   'schedule_manager_desc' => 'Nasz system Harmonogram pozwala ustawić czasowe sterowanie zasilaniem, kopie zapasowe lub zadania',
   'database_manager' => 'Menedżer bazy danych',
   'database_manager_desc' => 'Generuj bazy danych MySQL, twórz nowe alokacje i wiele więcej',
-  'game_list_desc_1' => 'Select the game you wish to see plans for',
-  'game_list_desc_2' => 'There are no games available, create them in the admin area.',
-  'game_plans_section_text' => 'Below is a list of available plans for this game. Select the plan that fits you best.',
-  'game_plans_section_text_empty' => 'There are no games available, create them in the admin area.',
-  'team' => 'Team',
+  'game_list_desc_1' => 'Wybierz grę, dla której chcesz zobaczyć plany',
+  'game_list_desc_2' => 'Brak dostępnych gier, utwórz je w panelu administracyjnym.',
+  'game_plans_section_text' => 'Poniżej znajduje się lista dostępnych planów dla tej gry. Wybierz plan, który najbardziej Ci odpowiada.',
+  'game_plans_section_text_empty' => 'Brak dostępnych gier, utwórz je w panelu administracyjnym.',
+  'team' => 'Zespół',
   'team_content' => 'Nasz zespół składa się z programistów, moderatorów społeczności i menedżerów wsparcia.',
   'welcome_back' => 'Witaj ponownie, ',
   'panel_dreams' => 'Hosting',
